@@ -4,6 +4,7 @@ This widget allows to set a matrix-like falling code visualization to your deskt
 
 For use with Übersicht ==> http://tracesof.net/uebersicht/
 
+[Demo Page](https://cdn.rawgit.com/Porco-Rosso/Ubersicht-Matrix/aca49413/matrix.widget/Matrix.html)
 
 ![Demo Screenshot](screenshot.png)
 
